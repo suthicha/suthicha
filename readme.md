@@ -2,7 +2,7 @@
 
 # Suthicha Poonakaow
 
-[![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/suthicha)
-[![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/suthicha/suthicha)
-[![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/suthicha/suthicha)
-[![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/suthicha/suthicha)
+[![Github](https://img.shields.io/github/followers/suthicha?style=social)](https://github.com/suthicha)
+[![Github](https://img.shields.io/github/last-commit/suthicha/DamianRincon)](https://github.com/suthicha/suthicha)
+[![Github](https://img.shields.io/github/stars/suthicha/suthicha?style=social)](https://github.com/suthicha/suthicha)
+[![Github](https://img.shields.io/github/watchers/suthicha/suthicha?style=social)](https://github.com/suthicha/suthicha)
