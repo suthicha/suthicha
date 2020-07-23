@@ -19,9 +19,17 @@ Full-Stack | Web | Mobile
 - [x] Coding in my life.
 
 # SKILLS  :+1:
-<div align="left">
-  <img align="left" width="100%" height="300" src="https://github.com/suthicha/suthicha/blob/master/img/myskill.png">
+<div align="left" width="100%">
+  <img align="left" src="https://github.com/suthicha/suthicha/blob/master/img/myskill.png">
 </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
