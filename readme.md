@@ -20,8 +20,9 @@ Full-Stack | Web | Mobile
 
 # SKILLS  :+1:
 <div align="left">
-  <img align="left" src="https://github.com/suthicha/suthicha/blob/master/img/myskill.png">
-</div><br />
-<p></p>
+  <img align="left" width="100%" height="300" src="https://github.com/suthicha/suthicha/blob/master/img/myskill.png">
+</div>
+<br />
+<br />
 
 # PREVIEW
