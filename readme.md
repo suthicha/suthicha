@@ -1,5 +1,5 @@
 
-<img align="right" width="500" height="500"  src="https://github.com/suthicha/suthicha/blob/master/img/bg3.png">
+<img align="right" width="50%" height="50%"  src="https://github.com/suthicha/suthicha/blob/master/img/bg3.png">
 
 # Suthicha Poonakaow
 
