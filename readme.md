@@ -17,3 +17,6 @@ Full-Stack | Web | Mobile
 - [x] Highly dedicated to job with services mind and enthusiastic to learn new knowledge with passionate in conduct research to obtain factual information and authentic detail.<br />
 - [x] High abilities in working management to meets deadline.<br />
 - [x] Coding in my life.
+
+# SKILLS
+<img align="left"  src="https://github.com/suthicha/suthicha/blob/master/img/skill.png">
