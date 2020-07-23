@@ -20,3 +20,4 @@ Full-Stack | Web | Mobile
 
 # SKILLS
 
+<img align="left" width="40%" height="40%" src="https://github.com/suthicha/suthicha/blob/master/img/myskill.png">
