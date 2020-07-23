@@ -3,8 +3,8 @@
 <img align="right" width="40%" height="40%" top="100"  src="https://github.com/suthicha/suthicha/blob/master/img/bg3.png">
 
 # SUTHICHA POONAKAOW
-Specialist – Developer Team Lead<br />
-Full-Stack | Web | Mobile
+>Specialist – Developer Team Lead<br />
+>Full-Stack | Database | Web | Mobile | API
 
 [![Github](https://img.shields.io/github/followers/suthicha?style=social)](https://github.com/suthicha)
 [![Github](https://img.shields.io/github/stars/suthicha/suthicha?style=social)](https://github.com/suthicha/suthicha)
