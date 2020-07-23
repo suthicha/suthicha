@@ -36,4 +36,4 @@ Full-Stack | Web | Mobile
 <p></p>
 
 # PREVIEW  :pencil: 
-[2020 - Resume preview](https://github.com/suthicha/suthicha/blob/master/resume/2020-SUTHICHA-RESUME-V2.pdf)
+>[2020 - Resume preview](https://github.com/suthicha/suthicha/blob/master/resume/2020-SUTHICHA-RESUME-V2.pdf)
