@@ -4,7 +4,7 @@
 
 # SUTHICHA POONAKAOW
 Specialist – Developer Team Lead<br />
-Full-Stack | Web | Mobile (Android & Flutter)
+Full-Stack | Web | Mobile
 
 [![Github](https://img.shields.io/github/followers/suthicha?style=social)](https://github.com/suthicha)
 [![Github](https://img.shields.io/github/stars/suthicha/suthicha?style=social)](https://github.com/suthicha/suthicha)
