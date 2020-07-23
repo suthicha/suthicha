@@ -1,4 +1,4 @@
-<img align="right" style="width: 100vw; height: 100vh" src="https://github.com/suthicha/suthicha/blob/master/img/bg2.jpg">
+<img align="right" style="width: 500px; height: 500px" src="https://github.com/suthicha/suthicha/blob/master/img/bg2.jpg">
 
 # Suthicha Poonakaow
 
