@@ -4,7 +4,7 @@
 
 # Suthicha Poonakaow
 
-> Specialist – Developer Team Lead<br />
+> I'm Suthicha from Thailand, and I do develop software and development team. I really enjoy learning languages and frameworks like NodeJs, React, React Native, .NetCore and database design. <br />
 > Full-Stack | Web | Mobile | API | Database
 
 [![Github](https://img.shields.io/github/followers/suthicha?style=social)](https://github.com/suthicha)
