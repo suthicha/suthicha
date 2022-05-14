@@ -23,33 +23,3 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-
-<!--
-
-## Skills and Experience
-
-- ⚛ React
-- 📱 React Native
-- 💻 HTML, CSS, JS -->
-
-# SKILLS :+1:
-
-<!--
-<div align="left" width="100%">
-  <img align="left" src="https://github.com/suthicha/suthicha/blob/master/img/myskill.png">
-</div> -->
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<p></p>
-<!-- 
-# PREVIEW  :pencil: 
->[2020 - Resume preview](https://github.com/suthicha/suthicha/blob/master/resume/2020-SUTHICHA-RESUME-V2.pdf) -->
