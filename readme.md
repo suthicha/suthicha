@@ -1,7 +1,3 @@
-<!-- <br />
-<br />
-<img align="right" width="40%" height="40%" top="100"  src="https://github.com/suthicha/suthicha/blob/master/img/bg3.png"> -->
-
 # Suthicha Poonakaow
 
 > I'm Suthicha from Thailand, and I do develop software and development team. I really enjoy learning languages and frameworks like NodeJs, React, React Native, .NetCore and database design. <br />
@@ -14,6 +10,7 @@
 
 ### Why me :rocket:
 
+<hr />
 - [x] Widely experienced in IT related with good analytical skills. <br />
 - [x] Highly dedicated to job with services mind and enthusiastic to learn new knowledge with passionate in conduct research to obtain factual information and authentic detail.<br />
 - [x] High abilities in working management to meets deadline.<br />
