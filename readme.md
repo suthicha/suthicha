@@ -5,7 +5,7 @@
 # Suthicha Poonakaow
 
 > Specialist – Developer Team Lead<br />
-> Full-Stack | Database | Web | Mobile | API
+> Full-Stack | Web | Mobile | API | Database
 
 [![Github](https://img.shields.io/github/followers/suthicha?style=social)](https://github.com/suthicha)
 [![Github](https://img.shields.io/github/stars/suthicha/suthicha?style=social)](https://github.com/suthicha/suthicha)
