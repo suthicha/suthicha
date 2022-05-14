@@ -10,7 +10,7 @@
 
 ### Why me :rocket:
 
-<div style="border: 1px" />
+<div style="background-color: #000;height:10px; width:100%" />
 - [x] Widely experienced in IT related with good analytical skills. <br />
 - [x] Highly dedicated to job with services mind and enthusiastic to learn new knowledge with passionate in conduct research to obtain factual information and authentic detail.<br />
 - [x] High abilities in working management to meets deadline.<br />
